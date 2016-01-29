@@ -1,0 +1,16 @@
+RGBA: 
+14
+39
+40
+
+DXT1:
+19
+20
+
+DXT5:
+23
+24(for wiiu DXT5 swizzle = 0 , use wiiu sdk Texconv2 to swizzle textures from dds to gtx)
+35
+37
+43(for PS3 DXT5 alpha is in greend channel,and the alpha channel means brightness)
+47
